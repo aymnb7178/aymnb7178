@@ -22,13 +22,14 @@ I'm looking for **IT support, data analytics, and Python / automation** opportun
 
 | Repository | What it is |
 |---|---|
+| [SpatialOS-JARVIS-Workstation](https://github.com/aymnb7178/SpatialOS-JARVIS-Workstation) | Webcam hand-tracking holographic 3D workspace (OpenCV + MediaPipe) with a rule-based Arabic/English J.A.R.V.I.S. core, SQLite memory and a 15-agent registry. 16 automated tests |
 | [todo-app-flask](https://github.com/aymnb7178/todo-app-flask) | Flask task manager with an Arabic RTL interface (in-memory prototype) |
 | [professional-python-portfolio](https://github.com/aymnb7178/professional-python-portfolio) | Meal Planner & Nutrition Tracker (Streamlit prototype) and a small BMI example |
 | [python-data-analysis](https://github.com/aymnb7178/python-data-analysis) | Starting point for pandas practice |
 
 ## Projects in progress (code coming to GitHub)
 
-- **SpatialOS / J.A.R.V.I.S. Core** — Python project using OpenCV and MediaPipe for hand tracking and gesture control of a custom interface, with a few voice commands and Gemini API / n8n / Telegram integrations.
+- **SpatialOS integrations** — Gemini API, n8n and Telegram automation built around SpatialOS. This code is separate from the published repository above and is not on GitHub yet.
 - **SignBridge AI** — educational prototype that recognizes a limited set of hand gestures through the camera using rule-based logic and turns them into English sentences.
 - **NerveGear AI** — software-only simulation prototype exploring BCI/EEG concepts (no real EEG hardware).
 
