@@ -27,7 +27,7 @@ Several projects were written with AI assistance (Claude) and reviewed and publi
 | [SpatialOS-JARVIS-Workstation](https://github.com/aymnb7178/SpatialOS-JARVIS-Workstation) | Webcam hand-tracking holographic 3D workspace (OpenCV + MediaPipe) with a rule-based Arabic/English assistant core, SQLite memory and a 15-agent registry | 16 |
 | [SignBridge-AI](https://github.com/aymnb7178/SignBridge-AI) | Rule-based hand-gesture recognizer over MediaPipe landmarks (demo vocabulary, not a sign-language translator) | 10 |
 | [NerveGear-AI-Simulator](https://github.com/aymnb7178/NerveGear-AI-Simulator) | Synthetic EEG simulation with FFT band power and a dashboard (no hardware, not medical) | 10 |
-| [Telegram-AI-Automation](https://github.com/aymnb7178/Telegram-AI-Automation) | Telegram bot with n8n webhook and optional Gemini (standard library only; mocked tests, not run against live services) | 14 |
+| [Telegram-AI-Automation](https://github.com/aymnb7178/Telegram-AI-Automation) | Python Telegram bot with n8n webhook and optional Gemini (mocked tests, not run against live services) **plus my n8n "NIRA" assistant exports**: Gemini AI Agent, Gmail/Drive/GitHub/search tools, reminders and an Approve/Cancel gate for outward actions | 14 |
 | [python-data-analysis](https://github.com/aymnb7178/python-data-analysis) | pandas cleaning and analysis pipeline on a synthetic dataset | 9 |
 | [todo-app-flask](https://github.com/aymnb7178/todo-app-flask) | Flask task manager with Arabic RTL interface and SQLite storage | 8 |
 | [python-web-app](https://github.com/aymnb7178/python-web-app) | Flask notes REST API | 7 |
@@ -36,10 +36,6 @@ Several projects were written with AI assistance (Claude) and reviewed and publi
 | [professional-python-portfolio](https://github.com/aymnb7178/professional-python-portfolio) | Meal Planner & Nutrition Tracker (Streamlit prototype) and a small BMI example | - |
 
 Full index with verification notes: [python-professional-projects](https://github.com/aymnb7178/python-professional-projects).
-
-## In progress
-
-- **n8n workflows** — my own n8n automation system; the export will be added to the Telegram repository after it is reviewed and cleaned of secrets.
 
 ## Experience
 
