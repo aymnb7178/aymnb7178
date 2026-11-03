@@ -20,18 +20,26 @@ I'm looking for **IT support, data analytics, and Python / automation** opportun
 
 ## Projects on GitHub
 
-| Repository | What it is |
-|---|---|
-| [SpatialOS-JARVIS-Workstation](https://github.com/aymnb7178/SpatialOS-JARVIS-Workstation) | Webcam hand-tracking holographic 3D workspace (OpenCV + MediaPipe) with a rule-based Arabic/English J.A.R.V.I.S. core, SQLite memory and a 15-agent registry. 16 automated tests |
-| [todo-app-flask](https://github.com/aymnb7178/todo-app-flask) | Flask task manager with an Arabic RTL interface (in-memory prototype) |
-| [professional-python-portfolio](https://github.com/aymnb7178/professional-python-portfolio) | Meal Planner & Nutrition Tracker (Streamlit prototype) and a small BMI example |
-| [python-data-analysis](https://github.com/aymnb7178/python-data-analysis) | Starting point for pandas practice |
+Several projects were written with AI assistance (Claude) and reviewed and published by me; each README says so, explains how the code works, and states what was and was not tested.
 
-## Projects in progress (code coming to GitHub)
+| Repository | What it is | Tests |
+|---|---|---|
+| [SpatialOS-JARVIS-Workstation](https://github.com/aymnb7178/SpatialOS-JARVIS-Workstation) | Webcam hand-tracking holographic 3D workspace (OpenCV + MediaPipe) with a rule-based Arabic/English assistant core, SQLite memory and a 15-agent registry | 16 |
+| [SignBridge-AI](https://github.com/aymnb7178/SignBridge-AI) | Rule-based hand-gesture recognizer over MediaPipe landmarks (demo vocabulary, not a sign-language translator) | 10 |
+| [NerveGear-AI-Simulator](https://github.com/aymnb7178/NerveGear-AI-Simulator) | Synthetic EEG simulation with FFT band power and a dashboard (no hardware, not medical) | 10 |
+| [Telegram-AI-Automation](https://github.com/aymnb7178/Telegram-AI-Automation) | Telegram bot with n8n webhook and optional Gemini (standard library only; mocked tests, not run against live services) | 14 |
+| [python-data-analysis](https://github.com/aymnb7178/python-data-analysis) | pandas cleaning and analysis pipeline on a synthetic dataset | 9 |
+| [todo-app-flask](https://github.com/aymnb7178/todo-app-flask) | Flask task manager with Arabic RTL interface and SQLite storage | 8 |
+| [python-web-app](https://github.com/aymnb7178/python-web-app) | Flask notes REST API | 7 |
+| [Tic-Tac-Toe-Game](https://github.com/aymnb7178/Tic-Tac-Toe-Game) | Unbeatable minimax opponent | 8 |
+| [fitness-calculator](https://github.com/aymnb7178/fitness-calculator) | BMI / BMR / TDEE functions and CLI | 6 |
+| [professional-python-portfolio](https://github.com/aymnb7178/professional-python-portfolio) | Meal Planner & Nutrition Tracker (Streamlit prototype) and a small BMI example | - |
 
-- **SpatialOS integrations** — Gemini API, n8n and Telegram automation built around SpatialOS. This code is separate from the published repository above and is not on GitHub yet.
-- **SignBridge AI** — educational prototype that recognizes a limited set of hand gestures through the camera using rule-based logic and turns them into English sentences.
-- **NerveGear AI** — software-only simulation prototype exploring BCI/EEG concepts (no real EEG hardware).
+Full index with verification notes: [python-professional-projects](https://github.com/aymnb7178/python-professional-projects).
+
+## In progress
+
+- **n8n workflows** — my own n8n automation system; the export will be added to the Telegram repository after it is reviewed and cleaned of secrets.
 
 ## Experience
 
