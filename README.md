@@ -20,6 +20,25 @@ I'm looking for **IT support, data analytics, and Python / automation** opportun
 
 ## Projects on GitHub
 
+### Data, AI & automation (new)
+
+Ten projects across data analysis, Arabic NLP, automation, and monitoring. Each has tests, a runnable demo, and a README that reports real numbers from real runs. **All demo data is synthetic and labelled as such**, and every README states that it was built with AI assistance and lists its limitations.
+
+| Repository | What it is | Tests |
+|---|---|---|
+| [sales-intelligence-platform](https://github.com/aymnb7178/sales-intelligence-platform) | SQLite + pandas sales analytics: KPIs, RFM, cohorts, forecast backtest, HTML dashboard, Power BI-ready CSVs | 34 |
+| [arabic-ai-knowledge-assistant](https://github.com/aymnb7178/arabic-ai-knowledge-assistant) | Arabic/English document Q&A with TF-IDF + BM25 retrieval and cited passages (no LLM needed) | 32 |
+| [smart-it-helpdesk](https://github.com/aymnb7178/smart-it-helpdesk) | Flask + SQLite ticketing with roles, SLA tracking, auto-classification and an admin dashboard | 25 |
+| [excel-automation-engine](https://github.com/aymnb7178/excel-automation-engine) | Merge, clean, dedupe and validate Excel files, then build formatted reports with a quality scorecard | 54 |
+| [arabic-sentiment-analyzer](https://github.com/aymnb7178/arabic-sentiment-analyzer) | MSA + Gulf Arabic sentiment with classical ML, a lexicon baseline and aspect extraction | 33 |
+| [saudi-job-market-analyzer](https://github.com/aymnb7178/saudi-job-market-analyzer) | Skill extraction and skills-gap tool for job postings (demo data is synthetic, not real market statistics) | 44 |
+| [business-automation-hub](https://github.com/aymnb7178/business-automation-hub) | n8n-inspired workflow engine: signed webhooks, retries, dead-letter queue, Arabic/English replies | 25 |
+| [network-monitoring-system](https://github.com/aymnb7178/network-monitoring-system) | Defensive latency monitor, TCP scanner, ARP inventory and flow anomaly detection (authorised use only) | 33 |
+| [predictive-maintenance-ai](https://github.com/aymnb7178/predictive-maintenance-ai) | RUL and failure-alarm models on simulated sensor data with unit-level evaluation | 25 |
+| [api-monitoring-platform](https://github.com/aymnb7178/api-monitoring-platform) | WSGI middleware, collector API, uptime checks, p95/p99, SLO burn rate and alerts | 33 |
+
+### Earlier projects
+
 Several projects were written with AI assistance (Claude) and reviewed and published by me; each README says so, explains how the code works, and states what was and was not tested.
 
 | Repository | What it is | Tests |
