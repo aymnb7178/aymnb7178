@@ -22,7 +22,7 @@ I'm looking for **IT support, data analytics, and Python / automation** opportun
 
 ### Data, AI & automation (new)
 
-Ten projects across data analysis, Arabic NLP, automation, and monitoring. Each has tests, a runnable demo, and a README that reports real numbers from real runs. **All demo data is synthetic and labelled as such**, and every README states that it was built with AI assistance and lists its limitations.
+Ten projects across data analysis, Arabic NLP, automation, and monitoring. Each has tests, a runnable demo, and a README that reports real numbers from real runs. **All demo data is synthetic and labelled as such**, and every README lists its limitations.
 
 | Repository | What it is | Tests |
 |---|---|---|
@@ -38,8 +38,6 @@ Ten projects across data analysis, Arabic NLP, automation, and monitoring. Each 
 | [api-monitoring-platform](https://github.com/aymnb7178/api-monitoring-platform) | WSGI middleware, collector API, uptime checks, p95/p99, SLO burn rate and alerts | 33 |
 
 ### Earlier projects
-
-Several projects were written with AI assistance (Claude) and reviewed and published by me; each README says so, explains how the code works, and states what was and was not tested.
 
 | Repository | What it is | Tests |
 |---|---|---|
@@ -64,5 +62,5 @@ Full index with verification notes: [python-professional-projects](https://githu
 
 ## Connect
 
-- LinkedIn: [aiman-al-abbar](https://linkedin.com/in/aiman-al-abbar-976b04400)
+- LinkedIn: [aiman-al-erwi](https://www.linkedin.com/in/aiman-al-erwi-976b04400)
 - GitHub: [aymnb7178](https://github.com/aymnb7178)
